@@ -1,4 +1,4 @@
-#python program tha asks user to enter two number and operator then perfom the calculation
+#python program that asks user to enter two number and operator then perfom the calculation
 
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
